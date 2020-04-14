@@ -37,7 +37,7 @@
 
     <fastjson.version>1.2.58</fastjson.version>
     <fastjson.dataformat.version>2.9.9</fastjson.dataformat.version>
-    <fastxml.databind.version>2.9.4</fastxml.databind.version>
+    <fastxml.databind.version>2.9.10.3</fastxml.databind.version>
 
     <codec.version>1.12</codec.version>
 
