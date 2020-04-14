@@ -50,7 +50,7 @@
 
     <httpcore.version>4.4.1</httpcore.version>
     <jdom.version>1.1</jdom.version>
-    <netty.version>4.1.6.Final</netty.version>
+    <netty.version>4.1.42.Final</netty.version>
 
   </properties>
 
