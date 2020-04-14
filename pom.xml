@@ -41,7 +41,7 @@
 
     <codec.version>1.12</codec.version>
 
-    <nimbusds.jwt.version>5.14</nimbusds.jwt.version>
+    <nimbusds.jwt.version>7.9</nimbusds.jwt.version>
 
     <mail.version>1.6.4</mail.version>
     <mail.api.version>1.4.3</mail.api.version>
