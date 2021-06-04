@@ -48,7 +48,7 @@
 
     <aliyun.oss.version>3.8.0</aliyun.oss.version>
 
-    <httpcore.version>4.4.1</httpcore.version>
+    <httpcore.version>4.5.13</httpcore.version>
     <jdom.version>1.1</jdom.version>
     <netty.version>4.1.42.Final</netty.version>
 
