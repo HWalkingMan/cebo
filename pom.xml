@@ -23,7 +23,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
 
     <!-- 依赖包版本管理 -->
-    <spring.boot.version>2.2.5.RELEASE</spring.boot.version>
+    <spring.boot.version>2.5.12</spring.boot.version>
     <spring.websocket.version>2.1.6.RELEASE</spring.websocket.version>
 
     <lombok.version>1.18.8</lombok.version>
